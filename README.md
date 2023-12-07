@@ -1,3 +1,7 @@
 # MyJavaCode
 
-小白练习Java
+- Cat.java
+ 你好，世界
+
+- math.java
+ 计算机
